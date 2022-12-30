@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" tvg-id="MOVISTAR LA LIGA", MOVISTAR LA LIGA
+acestream://684e5c085484e8ea79858713eeb7a3668baca29e
